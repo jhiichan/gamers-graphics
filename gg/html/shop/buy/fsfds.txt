@@ -1,0 +1,7 @@
+EXPLANATION : 
+ After finish downloading the file, extract it to desktop/download folder
+ The extract files will revealed "Crash Fix"
+ Inside the "Crash Fix" folder, there's a folder named "Use_THIS-rld-ra3cCRACKFIXcampaign"
+ Explore until you found 2 folders named "Data" & "Launcher" and other files
+ Paste and replace it in you Red Alert 3 directory
+ Enjoy 

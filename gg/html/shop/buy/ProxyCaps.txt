@@ -1,0 +1,8 @@
+After installing proxycap and restarting, find the proxycap tray icon (if there isn't any, then run the program). Rightclick it and make sure it is dissabled.
+Double click the tray icon and the main window of proxycap will appear. As you can see, proxycap uses rulesets and each ruleset have options for "proxies", "Rules" and "DNS". 
+
+In "Proxies", press "new proxy server" (there are some grey buttons, they look inactive). Set "type" to "socks5". Set "Host" to the IP number of the proxy. Set "Port" to the port number the proxy uses. If you got your proxy from some proxy listing site, there is probably a column named "port". If you got the proxy from Charon there is a column named "port". If you copy/past from Charon, the port number will already be in the "host" field (at then end of the IP adress) and you will have to move it down to the "port" field. "proxy requires auth" should be empty.
+
+In "Rules", press "new routing rule". "Rule action" should be set to "redirect through proxy", and the "default" proxy should be selected. "Application" should be set to "specify", and "DragonNest.exe" should be selected. In "Transports", only "TCP" should be ticked. "Destination port range","Destination IP range" and "Destination Host name" should all be set to "not restricted".
+
+In "DNS", "Enable Remote DNS" should not be ticked.
